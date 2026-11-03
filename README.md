@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Pablo 
 
-<!--
-**pablofranco1/pablofranco1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Engineer en Valencia. Graduado en Ciencia de Datos · Máster en IA y Big Data (UPV).
+Construyo agentes con LLMs, pipelines de datos y aplicaciones desplegadas en cloud.
 
-Here are some ideas to get you started:
+### Agentes e IA aplicada
+- *Próximamente*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Big Data e ingeniería de datos
+- *Próximamente*
+
+### Backend e infraestructura
+- *Próximamente*
+
+### Stack
+Python · PySpark · SQL · FastAPI · Flask · Docker · Redis · PostgreSQL · AWS · Hetzner · Next.js · TypeScript
+
+ ablofranco2802@gmail.com
