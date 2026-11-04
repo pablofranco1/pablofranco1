@@ -4,7 +4,7 @@ AI & Data Engineer en Valencia. Graduado en Ciencia de Datos · Máster en IA y 
 Construyo agentes con LLMs, pipelines de datos y aplicaciones desplegadas en cloud.
 
 ### Agentes e IA aplicada
-- *Próximamente*
+- [AI Data Analyst Agent](https://github.com/pablofranco1/ai-data-analyst-agent): agente que analiza datasets escribiendo y ejecutando código Python en un sandbox Docker aislado
 
 ### Big Data e ingeniería de datos
 - *Próximamente*
