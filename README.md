@@ -15,4 +15,4 @@ Construyo agentes con LLMs, pipelines de datos y aplicaciones desplegadas en clo
 ### Stack
 Python · PySpark · SQL · FastAPI · Flask · Docker · Redis · PostgreSQL · AWS · Hetzner · Next.js · TypeScript
 
- ablofranco2802@gmail.com
+ pablofranco2802@gmail.com
