@@ -5,7 +5,7 @@ Construyo agentes con LLMs, pipelines de datos y aplicaciones desplegadas en clo
 
 ### Agentes e IA aplicada
 - [AI Data Analyst Agent](https://github.com/pablofranco1/ai-data-analyst-agent): agente que analiza datasets escribiendo y ejecutando código Python en un sandbox Docker aislado
-
+- [MCP Server Facturas](https://github.com/pablofranco1/mcp-server-facturas): servidor MCP que permite a un LLM gestionar facturas con validación en servidor y límites contra el troceo de operaciones
 ### Big Data e ingeniería de datos
 - *Próximamente*
 
